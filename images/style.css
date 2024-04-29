@@ -1,5 +1,6 @@
 #header03-e{
-    background-image: url(img2-1.jpg)
+    background-image: url(img1-1.jpg);
+    background-position: left;
 }
 .taco{
     font-size: 200px;
@@ -32,6 +33,7 @@
 }
 #subs{
     background-color: #f5d500;
+    border: none;
 }
 
 
